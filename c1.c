@@ -1,4 +1,4 @@
-//iterative echo server using udp socket
+//iterative echo server using tcp socket
 
 #include<stdio.h>
 #include<string.h>
