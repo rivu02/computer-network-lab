@@ -1,3 +1,5 @@
+//iterative echo server using udp socket
+
 #include<stdio.h>
 #include<string.h>
 #include<sys/socket.h>
