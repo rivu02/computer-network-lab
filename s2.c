@@ -1,4 +1,4 @@
-//iterative day-time server ud=sing tcp socket
+//iterative day-time server using tcp socket
 
 #include<stdio.h>
 #include<string.h>
